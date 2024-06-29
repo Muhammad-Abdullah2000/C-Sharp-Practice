@@ -1,0 +1,7 @@
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\bin\Debug\Bank_Program.exe.config
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\bin\Debug\Bank_Program.exe
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\bin\Debug\Bank_Program.pdb
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\obj\Debug\Bank_Program.csprojAssemblyReference.cache
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\obj\Debug\Bank_Program.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\obj\Debug\Bank_Program.exe
+E:\IDE programs\Assingment 3\Bank_Program\Bank_Program\obj\Debug\Bank_Program.pdb

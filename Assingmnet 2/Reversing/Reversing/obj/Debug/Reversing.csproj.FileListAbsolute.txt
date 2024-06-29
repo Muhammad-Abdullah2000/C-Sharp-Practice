@@ -1,0 +1,7 @@
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\bin\Debug\Reversing.exe.config
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\bin\Debug\Reversing.exe
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\bin\Debug\Reversing.pdb
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\obj\Debug\Reversing.csprojAssemblyReference.cache
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\obj\Debug\Reversing.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\obj\Debug\Reversing.exe
+E:\IDE programs\Assingmnet 2\Reversing\Reversing\obj\Debug\Reversing.pdb

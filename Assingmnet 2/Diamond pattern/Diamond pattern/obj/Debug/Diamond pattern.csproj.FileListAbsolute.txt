@@ -1,0 +1,7 @@
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\bin\Debug\Diamond pattern.exe.config
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\bin\Debug\Diamond pattern.exe
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\bin\Debug\Diamond pattern.pdb
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\obj\Debug\Diamond pattern.csprojAssemblyReference.cache
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\obj\Debug\Diamond pattern.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\obj\Debug\Diamond pattern.exe
+E:\IDE programs\Assingmnet 2\Diamond pattern\Diamond pattern\obj\Debug\Diamond pattern.pdb

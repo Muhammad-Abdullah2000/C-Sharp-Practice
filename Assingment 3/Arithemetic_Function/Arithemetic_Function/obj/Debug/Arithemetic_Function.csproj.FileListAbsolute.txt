@@ -1,0 +1,7 @@
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\bin\Debug\Arithemetic_Function.exe.config
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\bin\Debug\Arithemetic_Function.exe
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\bin\Debug\Arithemetic_Function.pdb
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\obj\Debug\Arithemetic_Function.csprojAssemblyReference.cache
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\obj\Debug\Arithemetic_Function.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\obj\Debug\Arithemetic_Function.exe
+E:\IDE programs\Assingment 3\Arithemetic_Function\Arithemetic_Function\obj\Debug\Arithemetic_Function.pdb

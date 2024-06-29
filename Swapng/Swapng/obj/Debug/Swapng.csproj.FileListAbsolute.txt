@@ -1,0 +1,7 @@
+E:\IDE programs\C#\Swapng\Swapng\bin\Debug\Swapng.exe.config
+E:\IDE programs\C#\Swapng\Swapng\bin\Debug\Swapng.exe
+E:\IDE programs\C#\Swapng\Swapng\bin\Debug\Swapng.pdb
+E:\IDE programs\C#\Swapng\Swapng\obj\Debug\Swapng.csprojAssemblyReference.cache
+E:\IDE programs\C#\Swapng\Swapng\obj\Debug\Swapng.csproj.CoreCompileInputs.cache
+E:\IDE programs\C#\Swapng\Swapng\obj\Debug\Swapng.exe
+E:\IDE programs\C#\Swapng\Swapng\obj\Debug\Swapng.pdb

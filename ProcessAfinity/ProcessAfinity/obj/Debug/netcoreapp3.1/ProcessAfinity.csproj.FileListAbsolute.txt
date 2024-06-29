@@ -1,0 +1,13 @@
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.exe
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.deps.json
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.runtimeconfig.json
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.runtimeconfig.dev.json
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.dll
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\bin\Debug\netcoreapp3.1\ProcessAfinity.pdb
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.AssemblyInfoInputs.cache
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.AssemblyInfo.cs
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.dll
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.pdb
+E:\IDE programs\C# in Visual Studio\ProcessAfinity\ProcessAfinity\obj\Debug\netcoreapp3.1\ProcessAfinity.genruntimeconfig.cache

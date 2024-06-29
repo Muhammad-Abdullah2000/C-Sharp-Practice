@@ -1,0 +1,7 @@
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\bin\Debug\Binary_tree.exe.config
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\bin\Debug\Binary_tree.exe
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\bin\Debug\Binary_tree.pdb
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\obj\Debug\Binary_tree.csprojAssemblyReference.cache
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\obj\Debug\Binary_tree.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\obj\Debug\Binary_tree.exe
+E:\IDE programs\Assingmnet 2\Binary_tree\Binary_tree\obj\Debug\Binary_tree.pdb

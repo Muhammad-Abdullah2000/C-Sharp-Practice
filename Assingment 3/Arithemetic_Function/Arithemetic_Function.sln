@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithemetic_Function", "Arithemetic_Function\Arithemetic_Function.csproj", "{ECEE6974-8CAA-49A6-8A64-D49EF472B3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEE6974-8CAA-49A6-8A64-D49EF472B3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEE6974-8CAA-49A6-8A64-D49EF472B3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEE6974-8CAA-49A6-8A64-D49EF472B3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEE6974-8CAA-49A6-8A64-D49EF472B3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {859304D1-1849-4D46-9583-399ED2AA2FC4}
+	EndGlobalSection
+EndGlobal

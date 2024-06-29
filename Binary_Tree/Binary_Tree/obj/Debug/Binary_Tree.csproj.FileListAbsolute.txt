@@ -1,0 +1,7 @@
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.exe.config
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.exe
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.pdb
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.exe
+E:\IDE programs\C# in Visual Studio\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.pdb

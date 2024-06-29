@@ -1,0 +1,7 @@
+E:\IDE programs\Assingment 3\Laptop\Laptop\bin\Debug\Laptop.exe.config
+E:\IDE programs\Assingment 3\Laptop\Laptop\bin\Debug\Laptop.exe
+E:\IDE programs\Assingment 3\Laptop\Laptop\bin\Debug\Laptop.pdb
+E:\IDE programs\Assingment 3\Laptop\Laptop\obj\Debug\Laptop.csprojAssemblyReference.cache
+E:\IDE programs\Assingment 3\Laptop\Laptop\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+E:\IDE programs\Assingment 3\Laptop\Laptop\obj\Debug\Laptop.exe
+E:\IDE programs\Assingment 3\Laptop\Laptop\obj\Debug\Laptop.pdb

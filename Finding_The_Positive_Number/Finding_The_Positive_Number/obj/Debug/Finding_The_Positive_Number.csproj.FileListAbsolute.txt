@@ -1,0 +1,7 @@
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\bin\Debug\Finding_The_Positive_Number.exe.config
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\bin\Debug\Finding_The_Positive_Number.exe
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\bin\Debug\Finding_The_Positive_Number.pdb
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\obj\Debug\Finding_The_Positive_Number.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\obj\Debug\Finding_The_Positive_Number.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\obj\Debug\Finding_The_Positive_Number.exe
+E:\IDE programs\C# in Visual Studio\Finding_The_Positive_Number\Finding_The_Positive_Number\obj\Debug\Finding_The_Positive_Number.pdb

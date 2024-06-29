@@ -1,0 +1,7 @@
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\bin\Debug\Diamond_Pattern.exe.config
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\bin\Debug\Diamond_Pattern.exe
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\bin\Debug\Diamond_Pattern.pdb
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\obj\Debug\Diamond_Pattern.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\obj\Debug\Diamond_Pattern.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\obj\Debug\Diamond_Pattern.exe
+E:\IDE programs\C# in Visual Studio\Diamond_Pattern\Diamond_Pattern\obj\Debug\Diamond_Pattern.pdb

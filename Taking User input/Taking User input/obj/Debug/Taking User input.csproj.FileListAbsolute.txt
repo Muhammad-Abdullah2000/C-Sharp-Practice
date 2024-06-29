@@ -1,0 +1,7 @@
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\bin\Debug\Taking User input.exe.config
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\bin\Debug\Taking User input.exe
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\bin\Debug\Taking User input.pdb
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\obj\Debug\Taking User input.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\obj\Debug\Taking User input.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\obj\Debug\Taking User input.exe
+E:\IDE programs\C# in Visual Studio\Taking User input\Taking User input\obj\Debug\Taking User input.pdb

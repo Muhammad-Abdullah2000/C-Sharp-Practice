@@ -1,0 +1,7 @@
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\bin\Debug\Reversing_Numbers.exe.config
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\bin\Debug\Reversing_Numbers.exe
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\bin\Debug\Reversing_Numbers.pdb
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\obj\Debug\Reversing_Numbers.csprojAssemblyReference.cache
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\obj\Debug\Reversing_Numbers.csproj.CoreCompileInputs.cache
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\obj\Debug\Reversing_Numbers.exe
+E:\IDE programs\C# in Visual Studio\Reversing_Numbers\Reversing_Numbers\obj\Debug\Reversing_Numbers.pdb
